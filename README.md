@@ -1,6 +1,6 @@
 # 🧮 Calculator  
 
-A simple and responsive calculator built using HTML, CSS, and JavaScript. The project was inspired by a YouTube tutorial, Developed entirely by me , I also added small improvements like a backspace feature and better operator handling.  
+A simple and responsive calculator built using HTML, CSS, and JavaScript. The project was inspired by a YouTube tutorial, Developed by me, I also added small improvements like a backspace feature and better operator handling.  
 
 ## 🔍 Overview  
 
@@ -36,7 +36,7 @@ It performs basic arithmetic operations and features a clean, minimal UI styled 
 
 ## 📸 Screenshot  
 
-
+<img width="1365" height="676" alt="image" src="https://github.com/user-attachments/assets/07016dc7-8200-45c8-a668-945affbb8bfd" />
 
 ## 🧠 What I Learned  
 
